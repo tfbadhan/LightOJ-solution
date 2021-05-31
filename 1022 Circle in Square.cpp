@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 	int t;
-    double pi = 2.0 * acos(0.0);
+        double pi = 2.0 * acos(0.0);
 	
 	scanf("%d", &t);
 	
